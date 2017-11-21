@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "carbide-ego-186709",
+  "private_key_id": "ce6d3a3a01649833b0ac38b2958559aa90c78133",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD0VismZCZry4h2\nz66E8GP0WdN9JfhkfCwRXtm3XjHNzBSuVO4hf96yqR/hhnYaU69OvJ4/PYjNJL8i\nIV5Y0tCuXXaIyb+2p7YB1ff3NFZHw6b11c81LEBOWRSuoFCaOauVVMwsm1eanyrB\nbd0gdOkWYMTkOOiJfI2AG44DDm8Rkm4Lh0jSM+EWH6ZFbU6edODMLdKNnPQtj1rF\nX882iYalfThX0MJg/qqC1nwss3iezio5vYm0XZgZ4TOjrIaNColBwTHJvDAaxDyY\nsI2jymWiATu5XWBbspVjgIKZHZ2OiNU2Tj+gGGSmTJx2D4m1xBpNMG8wJVmrs4Zb\nluyt1rNxAgMBAAECggEADPaYptp5yZ6wgn23rJbQtctRf758yo+GOsRzlIGJTsny\n57IquXEmYogbsHhk4hYSKzExi+lGzZwDTkMzFU83ikW8Cws5qj4lB11H4PgoUvnF\n3R2DNybuMT3zjYWEyz7vrB5F8CCsheAHmaA7ovwC7RiUn6dninpWy08C8oVwtf/K\nYA62hiL/oxorS93X5kjjT5HguuJ0KYVjCXdRH6m/wI0Dqov2qoAXsXe2MYCR/kS4\nMVzp9ZbQ6Ddy76DAjwe0dJuEKJhE8lgGx5C/JDRdQaQZu9k8NJrPW856b0J7iSQ4\nLUgxw0x67FRS0Gf4a0VDXwUzrvkp2x/ZA7nAL/bOwQKBgQD7SZsC2WwEkskIu52O\npcsEb8BrjqA6SLQ29VjjtsOdtCZKev121bJnWKw9gW6vmOwVBKTLMvH2/JaHbObW\nr0F17VQUwyeRiu47AyEXySf4TdYgmdZC2kgdlWqVSj4HSKJPxj4FOnx9C64HPGmU\nBfqE5M6lqyMRMF53uWr6UOp9MQKBgQD46zFSxUq6jO7gIT1KGM60CACBucnxt7hV\ndfKs7/ugOY0Qi3uYoe62MNJBVzEuzbNVZecEyjmPTcs2G81hghffxgz3d/Wv0Gcc\n2d52rA+44b8nHAO0LFhhwT2nMwDJ6FJ/PBWLU1PRfltVf9RBXXFEzczWVypWtQMO\nTlRkUbkKQQKBgE36VFj5AVUV+75zAfyPJEXXK930n3IWt53KWvAm+eMJUUyRh/AF\ndlwtnx1i+ecRzEjlbQIFaCKd1VRnDecW8XhX0lyzBqdadnznhrBr4rRh6w2oz11l\ngTV09WMoa8E03/FjckGLGbBwHGvwak7d4BS3MA0m4zXlTZtXdYQB8hIxAoGBALFB\nYo1Lmyx/IbgPU4LJaaDANgQrFkiACM8qv9YwyuHNOcv3V9tYLRImcANBoO9wYe1F\nNJ6vlw+aWUQ9xiJSrseWVDOBhD5fzJ258/ZUDpocf6/M/kI2dfWe01WWN1CQlPaw\nBbOCciSzszyOW8r0TK2vU9eqmKbIHdX5J5WMsJVBAoGAOhiOpRnLgqR6tOP4YbS9\nQZM6n7KxNrZgypWMR5hJF4mW/f0iEgfAABM9L34LgkVb9/CFGL05l8oms0+DAzPa\nIxFrTFi3Z7bukEgTqFSkb55OCXbRhvRGOQMxnyVk47bUDi7ZUSm3bH+9i1aGbsUi\nPfyZ4InUEgNEnTgIrwn913I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "yogagoogleserviceaccount@carbide-ego-186709.iam.gserviceaccount.com",
+  "client_id": "115191073832582981589",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yogagoogleserviceaccount%40carbide-ego-186709.iam.gserviceaccount.com"
+}
