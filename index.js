@@ -4,7 +4,7 @@ const fs = require('fs');
 const key = require('./upload-ce6d3a3a0164.json');
 
 const drive = google.drive('v3');
-const jwtClient = new google.auth.JWT(
+const jwtToken = new google.auth.JWT(
   key.client_email,
   null,
   key.private_key,
@@ -12,13 +12,13 @@ const jwtClient = new google.auth.JWT(
   null
 );
 
-jwtClient.authorize((authErr) => {
+jwtToken.authorize((authErr) => {
   if (authErr) {
     console.log(authErr);
     return;
   }
 
-  drive.files.list({ auth: jwtClient }, (listErr, resp) => {
+  drive.files.list({ auth: jwtToken }, (listErr, resp) => {
     if (listErr) {
       console.log(listErr);
       return;
@@ -40,7 +40,7 @@ const fileMetadata = {
   };
 
   drive.files.create({
-    auth: jwtClient,
+    auth: jwtToken,
     resource: fileMetadata,
     media,
     fields: 'id'
